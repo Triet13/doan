@@ -32,7 +32,7 @@
                  type:'GET',
              }).done(function(reponse){
                Render("#totalcart",reponse)
-               <!-- alertify.success('Thêm vào giỏ hàng thành công!'); -->
+               <!-- alertify.success('Thêm vào giỏ hàng thành công!');
              });
         }
       
